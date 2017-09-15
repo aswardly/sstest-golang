@@ -1,0 +1,11 @@
+package: sstest
+import:
+- package: golang.org/x/crypto
+  subpackages:
+  - bcrypt
+- package: github.com/shopspring/decimal
+- package: github.com/joiggama/money
+  version: ^2.0.0
+- package: github.com/google/uuid
+  version: ^0.2
+- package: github.com/go-errors/errors

@@ -1,0 +1,17 @@
+hash: 553337b5c6fbc05ba1446d28243ddc80cc3b6e693922c2e204d65e117739e527
+updated: 2017-09-15T10:14:46.2883085+07:00
+imports:
+- name: github.com/go-errors/errors
+  version: 8fa88b06e5974e97fbf9899a7f86a344bfd1f105
+- name: github.com/google/uuid
+  version: 064e2069ce9c359c118179501254f67d7d37ba24
+- name: github.com/joiggama/money
+  version: dc37c83a59217f6699efe78b9bdbae3c536f20a3
+- name: github.com/shopspring/decimal
+  version: aed1bfe463fa3c9cc268d60dcc1491db613bff7e
+- name: golang.org/x/crypto
+  version: 81e90905daefcd6fd217b62423c0908922eadb30
+  subpackages:
+  - bcrypt
+  - blowfish
+testImports: []
